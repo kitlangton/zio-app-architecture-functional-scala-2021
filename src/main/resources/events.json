@@ -1,0 +1,27 @@
+[
+  {
+    "id" : 1,
+    "name" : "Functional Scala 2021",
+    "date" : "2021-12-02"
+  },
+  {
+    "id" : 2,
+    "name" : "ZIO World",
+    "date" : "2021-04-23"
+  },
+  {
+    "id" : 3,
+    "name" : "Alex Ioffe's House Party",
+    "date" : "2022-07-14"
+  },
+  {
+    "id" : 555776340,
+    "name" : "Functional Scala 2022",
+    "date" : "2022-07-01"
+  },
+  {
+    "id" : -2003698856,
+    "name" : "Functional Scala 2022",
+    "date" : "2022-07-01"
+  }
+]
